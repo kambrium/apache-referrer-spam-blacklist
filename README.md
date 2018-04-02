@@ -3,7 +3,7 @@ apache-referrer-spam-blacklist
 
 About
 -----
-This script generates a `.htaccess` file that blacklists the referrer spammers from [https://github.com/matomo-org/referrer-spam-blacklist](https://github.com/matomo-org/referrer-spam-blacklist). If you prefer to use `httpd.conf`, just copy the content of the generated `.htaccess` file to your `httpd.conf`.
+This script generates a .htaccess file based on the referrer spam blacklist from [https://github.com/matomo-org/referrer-spam-blacklist](https://github.com/matomo-org/referrer-spam-blacklist). If you prefer to use `httpd.conf`, just copy the content of the generated `.htaccess` file to your `httpd.conf`.
 
 Usage
 -----
